@@ -1,1 +1,14 @@
-#Baseline methods and their corresponding source code for reproduction.
+## 📂 Baseline Methods
+Implementations and source code for reproducing the baseline results:
+
+* **Supervised Methods**: GCN[1], GAT[2], SAGE[3]
+* **Semi-Supervised Methods**: GGAD[4]
+* **Unsupervised Methods**: GADAM[5], FreeGAD[6]
+
+References
+[1] Thomas N. Kipf and Max Welling. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907, 2016.
+[2] Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Lio, and Yoshua Bengio. Graph attention networks. arXiv preprint arXiv:1710.10903, 2017.
+[3] William L. Hamilton, Rex Ying, and Jure Leskovec. Inductive representation learning on large graphs. In Proceedings of the International Conference on Neural Information Processing Systems. Curran Associates Inc., 2017.
+[4] Hezhe Qiao, Qingsong Wen, Xiaoli Li, Ee-Peng Lim, and Guansong Pang. Generative semi-supervised graph anomaly detection. In Proceedings of the International Conference on Neural Information Processing Systems. Curran Associates Inc., 2024.
+[5] Jingyan Chen, Guanghui Zhu, Chunfeng Yuan, and Yihua Huang. Boosting graph anomaly detection with adaptive message passing. In The International Conference on Learning Representations, 2024.
+[6] Yunfeng Zhao, Yixin Liu, Shiyuan Li, Qingfeng Chen, Yu Zheng, and Shirui Pan. Freegad: A training-free yet effective approach for graph anomaly detection. InProceedings of the ACM International Conference on Information and Knowledge Management, 2025.
