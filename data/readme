@@ -1,1 +1,3 @@
+#We provide a minimal dataset to reproduce our experimental results.
 
+tar -xJvf EthereumS.tar.xz
