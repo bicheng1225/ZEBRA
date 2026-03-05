@@ -12,6 +12,14 @@ This is the official source code for the paper:
 
 ---
 
+### 🚀  Methodology: The ZEBRA Pipeline
+The following figure illustrates the overall architecture of ZEBRA. Our framework systematically processes blockchain transaction data through a zero-shot learning paradigm to identify illicit accounts.
+
+<p align="center">
+<img src="zebra-5.pdf" width="800" alt="ZEBRA Overall Pipeline">
+
+<em>Figure 1: The overall pipeline of ZEBRA, showcasing the flow from transaction networks to illicit account detection.</em>
+</p>
 
 ### 📊 Experimental Results on Ethereum-S & Bitcoin-M
 
