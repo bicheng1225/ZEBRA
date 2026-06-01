@@ -1,4 +1,4 @@
-# This folder contains the source code for ZEBRA, including several ablation variants.
+# This folder contains the source code for LABRA, including several ablation variants.
 
 
 step 1. create a environment:
