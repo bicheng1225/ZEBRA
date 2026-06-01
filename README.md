@@ -1,4 +1,4 @@
-# ZEBRA <img src="twemoji--zebra.svg" width="50" valign="middle">
+# LABRA <img src="twemoji--zebra.svg" width="50" valign="middle">
 
 This is the official source code for the paper:  
 **"LABRA: A Label-free Graph Neural Framework for Illicit Account Detection in Large-scale Blockchain Transaction Networks"** 🔗
